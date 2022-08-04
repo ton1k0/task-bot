@@ -1,0 +1,5 @@
+aiogram
+emoji
+redis
+ujson
+sqlalchemy
