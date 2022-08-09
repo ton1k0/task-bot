@@ -3,3 +3,4 @@ emoji
 redis
 ujson
 sqlalchemy
+redis-om
